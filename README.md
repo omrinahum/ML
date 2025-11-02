@@ -9,7 +9,6 @@ Implementation of logistic regression for binary classification.
 - Sigmoid function and cost function
 - Gradient descent optimization
 - Feature mapping and regularization
-- **Datasets:** Student admission (`ex2data1.txt`), Microchip testing (`ex2data2.txt`)
 
 ### Assignment 4: Neural Networks
 Neural network implementation using NumPy and PyTorch.
